@@ -133,7 +133,7 @@ The map highlights areas that are more vulnerable to flooding and can support di
 - Perform validation using historical flood records.
 - Extend the analysis using PostGIS and spatial SQL.
 
-## 📚 Data Sources
+##  Data Sources
 
 - SRTM Digital Elevation Model (DEM)
 - OpenStreetMap (Drainage Network)

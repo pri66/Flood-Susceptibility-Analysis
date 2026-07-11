@@ -1,5 +1,5 @@
 # Flood-Susceptibility-Analysis
-![Flood Susceptibility Analysis](maps/Flood Susceptibility Index of Jabalpur.png)
+https://github.com/pri66/Flood-Susceptibility-Analysis/blob/main/maps/Flood%20Susceptibility%20Index%20of%20Jabalpur.png
 GIS-based Flood Susceptibility Mapping using QGIS and Multi-Criteria Decision Analysis (MCDA)
 
 ##  Project Summary
